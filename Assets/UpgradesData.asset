@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f5500b02a8b26348a879df64ed62e9b, type: 3}
+  m_Name: UpgradesData
+  m_EditorClassIdentifier: 
+  upgrades: 1e000000230000000000000000000000
+  upgradesPrice:
+  - 7.612266
+  - 1331.7543
+  - 25.992
+  - 30
+  upgradesBasePrice: 010000000a000000140000001e000000
+  upgradesPriceMulti:
+  - 1.07
+  - 1.15
+  - 1.14
+  - 1.13
+  upgradesBuff:
+  - 0.05
+  - 0.2
+  - 0.5
+  - 1
+  upgradeNames:
+  - Viral Infection
+  - Hearth Attack
+  - "N\xE3o sei"
+  - "Pensa amig\xE3o"
+  points: 4
+  unlockUpgrades: 01000000010000000000000000000000
+  unlockUpgradesPrice: 000000000000000064000000e8030000
+  unlockUpgradesNames:
+  - 
+  - 
+  - 'Unlock
+
+    Meme doidera'
+  - 'Unlock
+
+    Amigo do ceu'
